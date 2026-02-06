@@ -1,5 +1,5 @@
 [project]
-name            = "pythontemplate"
+name            = "flows"
 version         = "0.0.0"
 description     = ""
 readme          = "README.md"
@@ -10,7 +10,7 @@ dependencies    = [
 ]
 
 [project.scripts]
-pythontemplate = "pythontemplate.cli:app"
+flows = "flows.cli:app"
 
 [dependency-groups]
 dev = [
