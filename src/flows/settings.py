@@ -1,4 +1,3 @@
-from attr import s
 from pydantic_settings import BaseSettings
 from pydantic_settings import SettingsConfigDict
 
